@@ -34,8 +34,7 @@ def skor(pengalaman, wawancara, bidang):
         poin += 2
     if bidang in pengalaman:
         poin += 3
-    return wawancara + poin
-
+    return (wawancara + poin)*100/100
 
 # Dictionary cakoor per bidang
 cakoor_perbidang = {
