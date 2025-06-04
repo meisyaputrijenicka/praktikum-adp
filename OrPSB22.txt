@@ -1,0 +1,16 @@
+Meisya Putri Jenicka,2410431011,KBI,Anggota Acara,97,Acara
+Naila Farizka,2410431016,KBI,Koordinator Pubdok,96,Acara
+Fauzi Taufiqur,2410431036,KBI,Koordinator Perlengkapan,94,Perlengkapan
+Maul Java,2410431021,KBI,Anggota Pubdok,90,Pubdok
+Nailul Athiyyah,2410432046,KBI,Koordinator Danus,95,Perlengkapan
+Desy Fadhillah,2410431038,KBI,Anggota Acara,97,Danus
+Mutiara Aviva,2410432045,KBI,Anggota Pubdok,92,Danus
+Nur Azizah,2410432011,A,Anggota Acara,89,Pubdok
+Lala Abdillah,2410431031,A,Koordinator Perlengkapan,90,Perlengkapan
+Sari Ramadhani,2410431029,A,Koordinator Acara,85,Danus
+Nazla Raudhatul,2410431004,B,Anggota Pubdok,87,Pubdok
+Dinda Rahma,2410431034,B,Koordinator Pubdok,96,Pubdok
+Angggya Fadhilla,2410431028,B,Koordinator Acara,96,Acara
+Sarah Asyifa,2410431018,B,Anggota Perlengkapan,95,Perlengkapan
+Deeya Ishmah,2410432006,C,Anggota Danus,87,Danus
+Lexania Nazila,2410431019,A,Anggota Acara,90,Acara
