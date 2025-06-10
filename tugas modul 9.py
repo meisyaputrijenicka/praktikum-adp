@@ -1,0 +1,33 @@
+import os
+from termcolor import cprint
+
+os.system("cls")
+print("LOGO PERTAMINA")
+
+cprint("                                        ███████████", "red")
+cprint("                                          ███████████", "red")
+cprint("                                            ███████████", "red")
+cprint("                                              ███████████", "red")
+cprint("                                                ███████████", "red")
+cprint("                                                  ███████████", "red")
+
+print()
+cprint("                             █████████████   ", "blue", end=" ")
+cprint("   ███████████  ", "green", end="")
+cprint(" ████████   █████████  █████████   ████████    ███     ██      ██  ██  ██      ██      ███","black")
+cprint("                           █████████████   ", "blue", end="")
+cprint("   ███████████  ", "green", end="")
+cprint("   ██      ██  ██         ██      ██     ██      ██ ██    ████  ████  ██  █████   ██     ██ ██","black")
+cprint("                         █████████████   ", "blue", end="")
+cprint("   ███████████", "green", end="")
+cprint("       █████████   █████████  █████████      ██     ███████   ██  ██  ██  ███ ██  ███ ██    ███████","black")
+cprint("                      █████████████   ", "blue", end="")
+cprint("   ███████████", "green", end="")
+cprint("          ██          ██         ██      ██     ██    ██     ██  ██      ██  ██  ██    ████   ██     ██","black")
+cprint("                    █████████████   ", "blue", end="")
+cprint("   ███████████", "green", end="")
+cprint("            ██          █████████  ██       ██    ██   ██       ██ ██      ██  ██  ██      ██  ██       ██","black")
+cprint("                  █████████████    ", "blue", end="")
+cprint("   ███████████","green")
+cprint("                █████████████    ", "blue")
+cprint("              █████████████    ", "blue")
